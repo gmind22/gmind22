@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmind22
-- 👀 I’m interested in ...Web development and Coding
-- 🌱 I’m currently learning ...Web Development
+- 👀 I’m interested in ...Cyber Security
+- 🌱 I’m currently learning ...Cyber Security
 - 💞️ I’m looking to collaborate on ...Any project
 - 📫 How to reach me ...gmind22@gmail.com
 
